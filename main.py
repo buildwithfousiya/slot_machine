@@ -69,7 +69,5 @@ def main():
     if play_again != 'y':
       print(f'You walk away with ${balance}.')
       break
-
-
-if __name__ == '__main__':
+      
   main()
